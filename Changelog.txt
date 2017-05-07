@@ -1,0 +1,150 @@
+==========================
+=====CHANGELOG v2.2======
+==========================
+-QS Tile: Add Disable the Lockscreen tile
+-NetworkTraffic: Hide when not connected to network
+-PowerUsageFeatureProviderImpl: Some cleanup
+-Move upcoming changes to sixota
+-Shamu: Set the gpu's default_pwrlevel to 4
+
+==========================
+=====CHANGELOG v2.1======
+==========================
+-Added SiX Rom logo to statusbar
+-Added SiX OTA updates 
+-Added alarm fullscreen
+-Themes: Update substratum to v712
+
+==========================
+=====CHANGELOG v2.0======
+==========================
+-Revision 7.1.2 r8 (N2G47O)
+-Cleanup source
+
+==========================
+=====ROM FEATURES========
+==========================
+-Revision 7.1.2 r8 (N2G47O)
+-Busybox included
+-Substratum v712 included
+-AppOps Security Settings
+-Package name in "App info"
+-Changelog/Credits in About Phone
+-SuperSU v2.79 or Phh`s Superuser
+-No Forced Encryption ( Kernel )
+-Vibration adjustment ( Kernel )
+-Disabled Tethering checks
+-Use Home button during a ringing call
+-One handed mode
+-DUI Smartbar, Fling, Pulse
+-Display bluetooth battery status when available
+-Pixel six black bootanimation
+-Pixel stock navigation bar icons
+-Pixel system colors
+-Pixel stock sounds
+-Assistant enabled by default
+-AOSP Messaging
+-AOSP Eleven Music
+-AOSP Camera
+-AOSP Calendar
+-AOSP CalendarWidget
+-0, 90, 180 and 270 degree rotation
+-Custom Quick Tiles
+-Haptic feedback to QS tiles
+-Advance Smart Cellular signal, Data, Location, USB, Wi-Fi tile behavior
+-Custom Clock and Date
+-Statusbar Network Indicators/Hide Arrows
+-Statusbar custom carrier label
+-Show/Hide notification count
+-Heads-up notifications
+-3Minit battery mod
+-Battery Bar
+-Battery (stock, landscape, circle, text, none)
+-Battery percent (hidden, inside the icon, next to the icon)
+-Volume keys: Wake, Music Skip, Camera
+-Volume unlink notification
+-Volume steps customize
+-Volume Down enter do not disturb
+-Volume Up exit do not disturb
+-Launch default music player on headset connect
+-Show icon of package in Toast popup
+-Low battery notification toggle
+-Camera shutter sound toggle
+-Recents FAB clear all button tweaks
+-Immersive recents
+-Expanded desktop options and quick setting tile
+-Double tap to sleep gesture, lockscreen, and navigation bar
+-Proximity Wake-on
+-Hide power menu on lockscreen
+-Enable/Disable Lockscreen Media Art
+-Lockscreen rotation option
+-Rom logo on statusbar
+-Hide lockscreen clock, date, alarm text
+-Disable/Enable quick settings on secure lockscreens 
+-Custom lockscreen clock fonts
+-Longpress power lockscreen torch
+-Ambient display customize
+-Ambient doze dt2w ( Kernel )
+-Doze mode enabled
+-CPU activity overlay
+-LED multi color notifications
+-Enable/disable wake on plug
+-Incall vibration options
+-Increasing ringtone option
+-Scramble pin layout
+-Disable ripple when entering lockscreen pin
+-Enable/Disable vibration when double tapping power button for camera
+-Show Flashlight notification on pulldown toggle
+-Screenshot delay option
+-Screenshot type option
+-Disable/Enable screenshot sound
+-Alarms block
+-Wakeblock patch and manager app
+-Suspend actions
+-Remove settings dashboard text summary
+-Remove settings recommended applications card
+-Remove  to disable dashboard conditions
+-Remove header settings icon
+-Remove header edit icon
+-Remove header multi-user icon
+-Center header date-time
+-Longpress settings icon in pulldown to enter S.i.X settings
+-Double tap to wake on doze option
+-Scrolling cache improvements
+-Disable/enable scrolling cache options
+-Don't refresh ui when screen off ( Save some battery )
+-Manual apk installation by default
+-Remove useless pngs and videos files
+-Turbo app
+-Init.d support
+-Addon.d support
+-Build prop tweaks
+-Tons of fixes 
+-AND TONS MORE!!!
+
+==========================
+===CREDITS AND THANKS====
+==========================
+-Beanstown106
+-Daveyannihilation
+-Vic Perriera
+-Nobe1976
+-Ezio84
+-MikeyMopar
+-REV3NTECH
+-Dustin Rinne
+-Randall Rushing
+-Wrongway213
+-Giovanni Bozzano
+-Dwitherell
+-David Hayes
+-PureNexus Project
+-BlackBird Kernel
+-Team BlackOut
+-Desolation ROM
+-Flash ROM
+-ABC ROM
+-UBER ROM
+-Omni ROM
+-Benzo ROM
+-Google
