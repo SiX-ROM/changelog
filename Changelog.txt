@@ -1,4 +1,16 @@
 ==========================
+=====CHANGELOG v2.3======
+==========================
+-Caffeine tile: Add back Countdown timer duration
+-Substratum: Update to v724
+-Wakeblock: update minor fixes
+-Suspend Actions: Remove 2G toggle (check network hand-off)
+-Headers: Remove Syed style
+-Headers: Remove Wavvy style
+-Wallpapers: Add 23 more and changes
+-Misc cleanup
+
+==========================
 =====CHANGELOG v2.2======
 ==========================
 -QS Tile: Add Disable the Lockscreen tile
