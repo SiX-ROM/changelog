@@ -1,4 +1,29 @@
 ==========================
+=====CHANGELOG v2.5======
+==========================
+-Added Lockscreen PIN quick unlock
+-Added Screenrecord qs tile
+-Added Compass qs tile
+-Added Pulse qs tile
+-Added SmartBar media arrows for next/previous track when media playing
+-Smartbar: Media arrows code improvements
+-DUI action: Restore home screen before killing the app
+-DUI mediamonitor: Exclude Chrome from isPlaying check
+-DUI mediamonitor: Exclude youtube from isPlaying check
+-Improve Pulse and MediaMonitor reliability
+-Fix ANR related to split-screen
+-Speed a couple more things up
+
+==========================
+=====CHANGELOG v2.4======
+==========================
+-Suspend Actions: Add back 2G toggle
+-Suspend Actions: change screen-off/on time
+-Screen pinning improvements
+-Fix WiFi QS while entering the detail view
+-Substratum: Update to v730
+
+==========================
 =====CHANGELOG v2.3======
 ==========================
 -Caffeine tile: Add back Countdown timer duration
