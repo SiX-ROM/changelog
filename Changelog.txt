@@ -1,4 +1,19 @@
 ==========================
+=====CHANGELOG v2.6======
+==========================
+-Added Animated GIF logo in About Phone
+-Added Telegram help link to OTA
+-Added AOSP grid-style recents
+-Services: Update Wakeblock patch to v2.0 template
+-SystemUI: Fix MediaProjection cast crash
+-Settings: Changes to About phone > Rom info and OTA
+-Sepolicy: Allow system_server to set theme_prop
+-Fix permissions for CTS
+-Fingerprint gesture: fix inverted axis on landscape
+-Wakeblock: update app to v2.0 template
+-Substratum: Update to v760
+
+==========================
 =====CHANGELOG v2.5======
 ==========================
 -Added Lockscreen PIN quick unlock
@@ -59,11 +74,123 @@
 -Cleanup source
 
 ==========================
+=====CHANGELOG v1.9======v730
+==========================
+-Add Headers Center date and time toggle
+-base: Enable mobile data always on
+-base: set scrolling to 0.006f
+-base: Disable automatic update gracefully
+-ZenModeConfig: Fix weeknight and weekend days arrays
+-Themes: Update substratum to v706
+
+==========================
+=====CHANGELOG v1.8======
+==========================
+-Themes: MusicFX fixes
+-TrampStamp xmls and folders (rebranding)
+-Cleanup source
+
+==========================
+=====CHANGELOG v1.7======
+==========================
+-Add Wakeblock rom patch by GiovanniBozzano
+-Add WakeBlock manager app by visit GiovanniBozzano
+-Remove previous wakelock blocker
+-Move CPU overlay toggle to developer settings
+-Navbar tile: apply one tap to enable/disable also to mini tiles bar
+-Fix warning: Potential leak of memory pointed to by 'set'
+-Fix a NPE with outlineProvider="none"
+-Fix the notification issue shown on startForeground
+-MusicFX: better explanation for some colors string
+-MusicFX: Make MusicFX fully themeable
+-MusicFX: Fix UI behavior for virtualizer effect
+-Themes: Reboot/Recovery QS Tile use vector icons
+-Themes: Add a looper to the locale change handler
+-Themes: JobService: Expose configuration shim refresh delay
+-Themes: JobService: Transition to the Binder Interprocess Communication System
+
+==========================
+=====CHANGELOG v1.6======
+==========================
+-TESTING ALL FEATURES
+
+==========================
+=====CHANGELOG v1.5======
+==========================
+-Themes: Expose framework values for 7.1.2
+-SmartBar: Battery Bar possition support
+-Battery Bar: blend colors between full/empty
+-Misc cleanup
+
+==========================
+=====CHANGELOG v1.4======
+==========================
+-Fix 3minit battery no showing on reboot - thanks to Wrongway213
+-Aapt: enforce 0 compression
+-Aapt: allow opting out of uncompressed aapt
+-Telephony: Hack GSM and LTE signal strength
+-Statusbar: BatteryBar customizations
+-SmartBar: Battery Bar support
+-SystemUI: fix long press for assist tiles
+-SystemUI: make online cpu color green for cpu overlay
+-AlarmsBlocker: Remove debug strings
+-base: found more duplicate sounds
+-Misc cleanup
+
+==========================
+=====CHANGELOG v1.3======
+==========================
+-Remove most wallpapers
+-Fix DUI slippery flag logic and IllegalArgumentException
+-CellularTile: supports advance tiles behavior
+-Fix Hotspot tile is shown on Guest user
+-PowerManager: Bring back the compatibility with AOSP
+-SystemUI:Notification bar custom notification display problems
+-Add more additional battery saver steps
+-Change default long-press time to 400ms
+-Themes: Expose expanded desktop app title
+-Themes: Location tile: new icons
+-Themes: New headphones statusbar icon
+
+==========================
+=====CHANGELOG v1.2======
+==========================
+-Remove custom lockscreen shortcuts
+-Remove CPU overlay
+-Remove sound panel from power menu
+-Misc changes to six settings layout
+-Change Contacts launcher icons
+-Add back to settings Gestures and Storage
+-Fix crash in battery history detail
+-Avoid a NullPointerException in security
+-Unify the design of add icon in setting
+-MountService: Don't run benchmarks after trimming
+-Make the allPendingIntents add operation thread-safe
+-ActivityStack index OOB cause device restart
+-Frameworks/base: Fix password/PIN/pattern update issue
+-Fix KeyEvent can't correctly finish when inputmethod time out happend
+-Set mProximity to PROXIMITY_UNKNOWN on screen off
+-Documentsui: enable file size and advanced options
+-Port "Battery Usage Alerts" feature from factory images to aosp
+
+==========================
+=====CHANGELOG v1.1======
+==========================
+-SNAPSHOT BUILD
+-Updated everything
+
+==========================
+=====CHANGELOG v1.0======
+==========================
+-Revision 7.1.2 r6 (NHG47K)
+-Shamu: Add notification blink support
+
+==========================
 =====ROM FEATURES========
 ==========================
 -Revision 7.1.2 r8 (N2G47O)
 -Busybox included
--Substratum v712 included
+-Substratum v730 included
 -AppOps Security Settings
 -Package name in "App info"
 -Changelog/Credits in About Phone
@@ -95,7 +222,6 @@
 -Show/Hide notification count
 -Heads-up notifications
 -3Minit battery mod
--Battery Bar
 -Battery (stock, landscape, circle, text, none)
 -Battery percent (hidden, inside the icon, next to the icon)
 -Volume keys: Wake, Music Skip, Camera
@@ -115,7 +241,6 @@
 -Hide power menu on lockscreen
 -Enable/Disable Lockscreen Media Art
 -Lockscreen rotation option
--Rom logo on statusbar
 -Hide lockscreen clock, date, alarm text
 -Disable/Enable quick settings on secure lockscreens 
 -Custom lockscreen clock fonts
@@ -136,15 +261,15 @@
 -Screenshot type option
 -Disable/Enable screenshot sound
 -Alarms block
--Wakeblock patch and manager app
+-Wakeblock patch and manager app by GiovanniBozzano
 -Suspend actions
--Remove settings dashboard text summary
--Remove settings recommended applications card
--Remove  to disable dashboard conditions
--Remove header settings icon
--Remove header edit icon
--Remove header multi-user icon
--Center header date-time
+-Option to remove settings dashboard text summary
+-Option to remove settings recommended applications card
+-Option to remove  to disable dashboard conditions
+-Option to remove header settings icon
+-Option to remove header edit icon
+-Option to remove header multi-user icon
+-Option to center header date-time
 -Longpress settings icon in pulldown to enter S.i.X settings
 -Double tap to wake on doze option
 -Scrolling cache improvements
@@ -169,18 +294,19 @@
 -Ezio84
 -MikeyMopar
 -REV3NTECH
+-David Hayes
 -Dustin Rinne
 -Randall Rushing
 -Wrongway213
 -Giovanni Bozzano
 -Dwitherell
--David Hayes
 -PureNexus Project
 -BlackBird Kernel
 -Team BlackOut
--Desolation ROM
--Flash ROM
+-Flash-ROM
 -ABC ROM
+-Desolation ROM
+-Unholy ROM
 -UBER ROM
 -Omni ROM
 -Benzo ROM
