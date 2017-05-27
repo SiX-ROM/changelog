@@ -1,4 +1,11 @@
 ==========================
+=====CHANGELOG v2.7======
+==========================
+-Fix Substratum fc on clean setup
+-Change default wallpaper
+-Added more six wallpapers
+
+==========================
 =====CHANGELOG v2.6======
 ==========================
 -Added Animated GIF logo in About Phone
