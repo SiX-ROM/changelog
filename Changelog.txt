@@ -1,4 +1,24 @@
 ==========================
+=====CHANGELOG v2.8======
+==========================
+-Add more six wallpapers
+-Base: Reduce the setTransactions
+-Base: Skip send broadcast to the receiver whoes user has not started
+-Base: Remove duplicate code for binder ID clear and restore
+-Base: Improve a calculation method for LTE antenna reception level
+-Base: Fix memory leak in WifP2pManager
+-Base: Improve exception handling
+-Base: Prevent NPE with DropBoxManager
+-Settings: Add less notifications sounds option
+-Settings: Add Camera sound toggle
+-Settings: Enable power save config of system apps
+-Settings: Move changelog, added summary and cleanup code to center
+-SmartBar editor: block quick popup when dragging the button
+-SystemUI: Add activity guard check for assist tiles
+-SystemUI: Fix IndexOutOfBoundsException
+-Prebuilt: Add Kernel Adiutor Mod-6 app
+
+==========================
 =====CHANGELOG v2.7======
 ==========================
 -Fix Substratum fc on clean setup
@@ -307,6 +327,8 @@
 -Wrongway213
 -Giovanni Bozzano
 -Dwitherell
+-Grarak
+-Yoinx
 -PureNexus Project
 -BlackBird Kernel
 -Team BlackOut
