@@ -1,4 +1,12 @@
 ==========================
+=====CHANGELOG v3.0======
+==========================
+-NEW BUILD AS OF 6-07-17
+-Add Liquid0624 as SiXROM developer
+-Revision 7.1.2 r16 (N2G47W)
+-Cleanup source
+
+==========================
 =====CHANGELOG v2.9======
 ==========================
 -CellBroadcastReceiver: Add missing back buttons in settings
@@ -360,6 +368,7 @@
 -Dwitherell
 -Grarak
 -Yoinx
+-Nathan Chancellor
 -PureNexus Project
 -BlackBird Kernel
 -Team BlackOut
