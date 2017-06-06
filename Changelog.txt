@@ -1,4 +1,35 @@
 ==========================
+=====CHANGELOG v2.9======
+==========================
+-CellBroadcastReceiver: Add missing back buttons in settings
+-Change accent color for AOSP keyboard
+-Bluetooth: NPE fix in doQuit
+-Bluetooth: Remove duplicate permission
+-Bluetooth: Let audio manager know when BT is turned off
+-Base: Better notification speed change
+-Base: Adjusted animation timing
+-Base: Improve the scan process
+-Base: Fix SystemUI FC due to Google Assistant
+-Base: Fix Fragment animations are not being saved across configuration
+-Base: Fix to NullPointerException when activity is relaunched
+-Base: Fix right mLastTimeUsed when aggregate UsageStats
+-Base: Fix ListView is not scrolled properly with arrows
+-Base: Fix to avoid crash when the tab is not set from app
+-Base: Fix to remove canceled tasks from executor's queue
+-Base: Handle ActivityNotFoundException for contacts activity
+-Base: Override onRestoreInstanceState() in MultiSelectListPreference
+-Base: Synchronize access of mSubscriptions 
+-Base: IInputMethodWrapper to recycle SomeArgs in all cases
+-Base: Catch corruptexception during Transaction operation
+-Base: Update font size of date and time on QS panel
+-Base: Show full alarm info
+-SystemUI: Add KernelAdiutor tile
+-SystemUI: Fix Compass qs tile icon in edit mode
+-Settings: Add KernelAdiutor Mod to dashboard
+-Vendor: Import apns and spn configs
+-Vendor: Remove unwanted device setups
+
+==========================
 =====CHANGELOG v2.8======
 ==========================
 -Add more six wallpapers
