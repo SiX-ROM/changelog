@@ -1,4 +1,26 @@
 ==========================
+=====CHANGELOG v3.2======
+==========================
+-KA Mod: CPU hotplug fragment properly initialize
+-SystemUI: Change KA Mod QS tile icon
+-Settings: Change KA Mod dashboard icon
+-Shamu: Upstream kernel and tweaks
+-Shamu: Enable zram for shamu
+-Shamu: Set the gpu's idle power level using kernel
+-Shamu: Fix foreground/boost cpuset
+-Shamu: Update interactive profile
+-Pulse: Navbar left in landscape support
+-Cleanup source
+
+==========================
+=====CHANGELOG v3.1======
+==========================
+-QS: Remove listeners only if added
+-Settings: Changes to owner/about rom info
+-Fingerprint: handle PerformanceStats NULL pointers
+-Cleanup source
+
+==========================
 =====CHANGELOG v3.0======
 ==========================
 -NEW BUILD AS OF 6-07-17
