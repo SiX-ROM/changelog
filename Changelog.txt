@@ -1,4 +1,10 @@
 ==========================
+=====CHANGELOG v3.4======
+==========================
+-Fix black texture on some apps (Firefox, MyRadar weather etc.)
+-Move About Rom and OTA to SiX setings
+
+==========================
 =====CHANGELOG v3.3======
 ==========================
 -AppOps: Check app permissions safely
