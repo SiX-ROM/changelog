@@ -1,4 +1,11 @@
 ==========================
+=====CHANGELOG v3.5======
+==========================
+-Night mode auto brightness: code cleanup and improvements
+-Correctly align cursor in DPI settings (smallest width)
+-Net monitor: fix arrows not showing when data saver is enabled
+
+==========================
 =====CHANGELOG v3.4======
 ==========================
 -Fix black texture on some apps (Firefox, MyRadar weather etc.)
