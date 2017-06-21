@@ -1,4 +1,18 @@
 ==========================
+=====CHANGELOG v3.6======
+==========================
+-Framework: Optimised hwui rounded corners shader
+-KAMod: Replace with APOPHIS Build v2
+-Fix MusicFX not building with source
+-Change SiX GitHub source link
+-Shamu: Revert changes to six stock kernel
+-Tools: AOSP most things
+-Speed things up some more
+-Misc cleanup
+-Github cleanup
+-NOTE: No more experimental builds
+
+==========================
 =====CHANGELOG v3.5======
 ==========================
 -Night mode auto brightness: code cleanup and improvements
