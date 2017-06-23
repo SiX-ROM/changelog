@@ -1,4 +1,17 @@
 ==========================
+=====CHANGELOG v3.7======
+==========================
+-Framework: [REVERT] Enable mobile data always on
+-Framework: Fix a crashed when clicking list item and button meanwhile
+-Core: Add and update built-in adaway host file
+-Core: Filter GalleryDatab*
+-Core: Silence spammy logs from camera blobs
+-DUI: Change menu drawables
+-DUI: Media arrows: hide them on keyguard bouncer
+-KAMod: [REVERT] APOPHIS v2 back to SiX v1.3
+-Shamu: Replace neobuddy hotplug for autoSMP
+
+==========================
 =====CHANGELOG v3.6======
 ==========================
 -Framework: Optimised hwui rounded corners shader
