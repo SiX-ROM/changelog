@@ -1,4 +1,28 @@
 ==========================
+=====CHANGELOG v3.8======
+==========================
+-Shamu: Rebase SiX kernel (BB/Uber/Flash/EX)
+-External: Track noto-fonts
+-Fonts: Add NotoColor emoji
+-Gcc: Update to UBER arm-eabi-6.x
+-KAMod: Update to v1.4
+-SiX Center: Add links for six theme and headers
+-Settings: Add back 2.4 or 5 GHz wifi options
+-Substratum: Update to v803
+-Vendor: Update selective-spn conf
+-Vendor: Update apns conf
+-Vendor: Add Youtube 4k support
+
+**TO-DO**
+-Add B14CKB1RD kernel after July security
+
+**NOTE**
+-Starting July, updates will slow down some due to
+-being Summertime, and ROM is at a good standing point
+-in terms of stability and features.
+-ENJOY AND HAVE FUN!!!!!!...HATERS TOO.
+
+==========================
 =====CHANGELOG v3.7======
 ==========================
 -Framework: [REVERT] Enable mobile data always on
