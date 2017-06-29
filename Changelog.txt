@@ -1,4 +1,20 @@
 ==========================
+=====CHANGELOG v3.9======
+==========================
+-Core: [REVERT] Built-in adaway host file
+-Shamu: Update SiX kernel to v1.1
+-SiXSettings: Use theme accent color for icons
+-Settings: Storage settings for devices with ext sdcard: fix bar color
+-Settings: Correctly align cursor in renaming BT device
+-MusicFX: Improve the overall layout of MusicFX
+-MusicFX: Modify the MusicFX landscape layout
+-MusicFX: Recentralize spinners and change layout
+
+**NOTE**
+-Shamu ONLY: Last Update for June
+-Wipe Kernel app cache and data
+
+==========================
 =====CHANGELOG v3.8======
 ==========================
 -Shamu: Rebase SiX kernel (BB/Uber/Flash/EX)
@@ -6,7 +22,7 @@
 -Fonts: Add NotoColor emoji
 -Gcc: Update to UBER arm-eabi-6.x
 -KAMod: Update to v1.4
--SiX Center: Add links for six theme and headers
+-SiXCenter: Add links for six theme and headers
 -Settings: Add back 2.4 or 5 GHz wifi options
 -Substratum: Update to v803
 -Vendor: Update selective-spn conf
