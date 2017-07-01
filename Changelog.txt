@@ -1,8 +1,40 @@
 ==========================
+=====CHANGELOG v4.0======
+==========================
+**7-06-17**
+-Shamu: Update B14CKB1RD Kernel to v2.3.1
+-Angler: Update SiXKernel to v4.2
+-Bullhead: Update SiXKernel to v4.2
+
+**7-05-17**
+-Revision 7.1.2 r27 (N2G48B)
+-Shamu: Disable throttling when battery low
+-Settings: Remove KA Mod from dashboard
+-Settings: Do not include saved network in scan list
+-Settings: Allow sorting applications by size
+-SoundSettings: Suppress a race condition crash
+-DUI: Fix button size not refreshing after a dpi change
+-Framework: Fix Error Callback if buffer lost for Camera2
+-Framework: Fix NPE with void android.view.VelocityTracker.clear()
+-Framework: Fix Null Pointer Issue
+-Framework: When monkey test, the object of mHost throws NullPointerException
+-Framework: SystemUI : Fix monkey exception for SystemUI
+-Framework: Modify the parameter in cleanupLocked
+-Framework: SymbolComparator operator() is missing const
+-Framework: Set the decay timer for all forked apps
+-Framework: Check for spurious wake ups
+-Framework: Remove the unnecessary window animation request
+-Cleanup source
+
+**NOTE**
+-Wipe Kernel app cache and data
+
+
+==========================
 =====CHANGELOG v3.9======
 ==========================
 -Core: [REVERT] Built-in adaway host file
--Shamu: Update SiX kernel to v1.1
+-Sixkernel: Update to v1.1
 -SiXSettings: Use theme accent color for icons
 -Settings: Storage settings for devices with ext sdcard: fix bar color
 -Settings: Correctly align cursor in renaming BT device
@@ -391,9 +423,9 @@
 ==========================
 =====ROM FEATURES========
 ==========================
--Revision 7.1.2 r16 (N2G47W)
+-Revision 7.1.2 r27 (N2G48B)
 -Busybox included
--Substratum v782 included
+-Substratum v803 included
 -AppOps Security Settings
 -Package name in "App info"
 -Changelog/Credits in About Phone
