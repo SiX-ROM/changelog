@@ -1,13 +1,56 @@
 ==========================
+=====CHANGELOG v4.1======
+==========================
+-Angler: Update gcc toolchain to aarch64-linux-android-6.x
+-Angler: BoardConfig: Allow enforcing on boot to be opt-in
+-Angler: Boot with all cpus by clusters
+-Angler: Compile libhwui for performance
+-Angler: Flash rom faster
+-Angler: Fix format warnings in device/huawei/angler/camera
+-Angler: Reset timer_rate back to 20000
+-Angler: Correct 4+0 screen off config
+-Angler: Modify screen off config
+-Angler: Don't wake on significant motion
+-Angler: Add configs from internal vendor.xml
+-Angler: Pin boot oat and services dex from /data
+-Angler: Update IMS paths in init.angler
+-Angler: Enable multi voice sessions to support VoLTE audio
+-Angler: Drop dex2oat threads down to 6
+-Angler: Change dex2oat threads to eight
+-Angler: Make the speakers a little louder
+-Angler: Add missing rates for deep buffer
+-Angler: Fix qmuxd error that spams logcat
+-Angler: Boot with all cpus
+-Angler: Set SELinux to Permissive
+-Shamu: Revert B14CKB1RD (Download Revs zip)
+-Shamu: Update internal sixkernel to v6.0
+-Shamu: Update interactive profile pt3
+-Shamu: Enable triple framebuffers
+-Shamu: BoardConfig: Allow enforcing on boot to be opt-in
+-Shamu: Set SELinux to Permissive
+-Shamu: Fix speakerphone echo problem
+-Shamu: Fix slowness in games bug
+-Shamu: PowerHAL Remove touchboost
+-Shamu: Update interactive profile
+-Shamu: Allow system_server to search persist_file
+-Shamu: Remove deprecated storage_list.xml
+-Shamu: Add missing rates for deep buffer
+-Framework: Fix service cannot start when service removed from restartList
+-Framework: Reduce the setTransactions from window manager service
+-Framework: Allow overriding default power profile
+-DUI: Fix custom button icon making touch and animation area smaller
+-Substratum: Update to v808
+
+**NOTE**
+-Wipe Kernel app cache and data
+
+==========================
 =====CHANGELOG v4.0======
 ==========================
-**7-06-17**
+-Revision 7.1.2 r27 (N2G48B)
 -Shamu: Update B14CKB1RD Kernel to v2.3.1
 -Angler: Update SiXKernel to v4.2
 -Bullhead: Update SiXKernel to v4.2
-
-**7-05-17**
--Revision 7.1.2 r27 (N2G48B)
 -Shamu: Disable throttling when battery low
 -Settings: Remove KA Mod from dashboard
 -Settings: Do not include saved network in scan list
@@ -25,10 +68,6 @@
 -Framework: Check for spurious wake ups
 -Framework: Remove the unnecessary window animation request
 -Cleanup source
-
-**NOTE**
--Wipe Kernel app cache and data
-
 
 ==========================
 =====CHANGELOG v3.9======
