@@ -1,4 +1,25 @@
 ==========================
+=====CHANGELOG v4.2======
+==========================
+-Shamu: Enable DT2W by default
+-Shamu: Update internal sixkernel to v7.0
+-Shamu: Build with gcc arm-linux-gnueabi-6.x
+-Framework: Add support for fake signatures ( MicroG Support )
+-Framework: Fix Screen pinning dialog background and text color
+-Framework: Hide dui custom icon size settings api
+-Framework: Add native Wakelock blocker
+-SystemUI: Add Hidden Time+Date Option to Header
+-Settings: Animated GIF logo in About Phone
+-Settings: Add back KA Mod to dashboard
+-Interfacer: Use a ContentObserver to check for force authorization
+-SEPolicy: Allow to find content_service
+
+NOTE: BULLHEAD USERS
+I am not doing anymore build of this device,
+i dont own it and no time atm to update it.
+Sorry for any inconvenience
+
+==========================
 =====CHANGELOG v4.1======
 ==========================
 -Angler: Update gcc toolchain to aarch64-linux-android-6.x
