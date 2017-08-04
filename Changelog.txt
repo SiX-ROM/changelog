@@ -1,4 +1,15 @@
 ==========================
+=====CHANGELOG v5.0======
+==========================
+-Revision 7.1.2 r33 (N2G48C)
+-Shamu: Add cpuset for camera-daemon
+-Shamu: increase heapminfree to 2m
+-Shamu: increase hwui large cache height to reduce jank
+-Shamu: [REVERT] Enable DT2W by default
+-Shamu: Remove deep buffer to fix pulse/visualizer
+-Themes: Expose keyguard text colors
+
+==========================
 =====CHANGELOG v4.2======
 ==========================
 -Shamu: Enable DT2W by default
